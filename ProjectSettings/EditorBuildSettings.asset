@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/HUD/HUD.unity
+    guid: 9687468d63870dc42877136af5068048
+  - enabled: 1
+    path: Assets/scenes/HUD/HUD_Creditos.unity
+    guid: f2547902c1b9ac74597aeccc488a4bdd
+  - enabled: 1
+    path: Assets/scenes/HUD/HUD_OPT.unity
+    guid: db480263be578dd41881fc2f38d00ab3
+  - enabled: 1
+    path: Assets/scenes/1 plano/entrada/entrada.unity
+    guid: 5e3e2b262091fe3488ddce0c0d2cee73
+  - enabled: 1
+    path: Assets/scenes/1 plano/entrada/entrada_escada.unity
+    guid: 5e02a6441a406214a82c4762e00d0ea5
+  - enabled: 1
+    path: Assets/scenes/1 plano/1 andar/1andar_descer.unity
+    guid: 00c55367df02ab645bd01db691d34d7f
+  - enabled: 1
+    path: Assets/scenes/1 plano/1 andar/1andar_subir.unity
+    guid: d9d2b600651abd24cab6031a38d846f3
+  - enabled: 1
+    path: Assets/scenes/1 plano/2 ANDAR/2amdar_descer.unity
+    guid: d6df6f2a5d819d245b6b2b41afe3d338
+  - enabled: 1
+    path: Assets/scenes/1 plano/2 ANDAR/2amdar_subir.unity
+    guid: af6c7dbcdbdfdfe429f0665a973ba0ec
+  - enabled: 1
+    path: Assets/scenes/1 plano/3 andar/3plano_descer.unity
+    guid: b68553e71cc1d8e4d8d972be76ded40d
+  - enabled: 1
+    path: Assets/scenes/1 plano/3 andar/3andar_subir.unity
+    guid: e8e10213dbc9649408f75159661922de
+  - enabled: 1
+    path: Assets/scenes/1 plano/sotao/sotao.unity
+    guid: f26d193f4e209994bb00ab6cc04187ca
+  - enabled: 1
+    path: Assets/scenes/1 plano/1 andar/1andar_banheiro.unity
+    guid: f59ac559ce5c9f746b09bfbb69ae95e6
+  - enabled: 1
+    path: Assets/scenes/2 plano/banheiro_baixo.unity
+    guid: 8e4a5687109aa444b8e70cf5fbfc66ff
+  - enabled: 1
+    path: Assets/scenes/1 plano/1 andar/1andar_cozinha.unity
+    guid: ffd1b87399466264e8547ee04cf5587a
+  - enabled: 1
+    path: Assets/scenes/2 plano/cozinha.unity
+    guid: f43b00fd1564e9f44829f8db12921452
+  - enabled: 1
+    path: Assets/scenes/1 plano/1 andar/1andar_lavanderia.unity
+    guid: fde43572bbd15b64fab84fe76c58a229
+  - enabled: 1
+    path: Assets/scenes/2 plano/lavanderia.unity
+    guid: 8f3f6393e327100428506776ad4fef05
+  - enabled: 1
+    path: Assets/scenes/1 plano/1 andar/1andar_refeitorio.unity
+    guid: 9f5e18b96071e1a45aa199eff4775170
+  - enabled: 1
+    path: Assets/scenes/2 plano/refeitorio.unity
+    guid: 0253848c4730ec24ca7b0967e8157cc6
+  - enabled: 1
+    path: Assets/scenes/2 plano/refeitorio_escada.unity
+    guid: 1494d1feb97a7e74c933014c3500cd5e
+  - enabled: 1
+    path: Assets/scenes/2 plano/deposito_meio_escada.unity
+    guid: cff5ecc412f09304faa30c3067cc9877
+  - enabled: 1
+    path: Assets/scenes/1 plano/2 ANDAR/2andar_biblioteca.unity
+    guid: c963ab7e2dd768d44b41e397bbaf93c3
+  - enabled: 1
+    path: Assets/scenes/2 plano/biblioteca.unity
+    guid: 87271b7047096044faf4ba0d5dc1a451
+  - enabled: 1
+    path: Assets/scenes/1 plano/2 ANDAR/2andar_deposito.unity
+    guid: 3ac958d19ca760644819c185ccf9a2c1
+  - enabled: 1
+    path: Assets/scenes/2 plano/deposito_meio.unity
+    guid: f2e6ac070882c974eb0dc8d090c8ddd5
+  - enabled: 1
+    path: Assets/scenes/1 plano/2 ANDAR/2andar_enfermaria.unity
+    guid: 778091f8b26fd9f4c9fb5536d350f48e
+  - enabled: 1
+    path: Assets/scenes/2 plano/enfermaria.unity
+    guid: 4b0565d1a16c89541ba044dc6cc4cf68
+  - enabled: 1
+    path: Assets/scenes/1 plano/3 andar/3plano_banheiro.unity
+    guid: 32496bee1f296294d801dc6e49a82383
+  - enabled: 1
+    path: Assets/scenes/2 plano/banheiro_cima.unity
+    guid: 2d3a17c807f10404887cd4273e99da07
+  - enabled: 1
+    path: Assets/scenes/1 plano/3 andar/3plano_dormitorio.unity
+    guid: b5ddfacc56d4cf5429d7205295ac4e65
+  - enabled: 1
+    path: Assets/scenes/2 plano/dormitorio.unity
+    guid: 519496c26989ee547b177327e8dbe769
+  - enabled: 1
+    path: Assets/scenes/1 plano/3 andar/3plano_escretorio.unity
+    guid: f99c6d7e26be3f54196b05b4e39aa0df
